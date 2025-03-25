@@ -11,7 +11,7 @@ public class Main {
 	System.out.println("Commit con pareja");
 	System.out.println("Garazi");
 	
-	System.out.println("Prueba con Merge");
+	System.out.println("Prueba con Merge...");
 
 	}
 
